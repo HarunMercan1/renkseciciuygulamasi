@@ -17,11 +17,17 @@ Dropdown menü, rastgele renk oluşturma, renk adını gösterme/gizleme ve kare
 
 ## ⚙️ Kurulum Adımları
 
+<<<<<<< HEAD
 Aşağıdaki adımları terminalde sırayla çalıştırarak projeyi çalıştırabilirsiniz:
 
 ```bash
 git clone https://github.com/HarunMercan1/renkseciciuygulamasi.git
 cd renkseciciuygulamasi
+=======
+bash
+git clone https://github.com/HarunMercan1/renseciciuygulamasi.git
+cd renseciciuygulamasi
+>>>>>>> 78c54acbf75a5e0220c62f840eb1a86d5b385181
 flutter pub get
 flutter run
 ```
