@@ -1,7 +1,13 @@
 # 🎨 Renk Seçici Uygulaması
 
 Flutter ile geliştirilmiş, kullanıcı etkileşimine dayalı bir renk seçme uygulamasıdır.  
-Dropdown menü, rastgele renk oluşturma, renk adını gösterme/gizleme ve kare/daire şekilli renk gösterimi gibi özellikler içerir.
+Aşağıdaki özellikleri içerir:
+
+- Dropdown menü ile renk seçimi  
+- Rastgele renk oluşturma  
+- Renk adını gösterme/gizleme (toggle özelliği)  
+- Renk kutusunu daire veya kare şeklinde gösterme  
+- Seçilen rengin RGB kodunu gösterme
 
 ---
 
