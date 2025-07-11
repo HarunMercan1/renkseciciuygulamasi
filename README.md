@@ -35,7 +35,7 @@ Dropdown menü, rastgele renk oluşturma, renk adını gösterme/gizleme ve kare
 
 ## ⚙️ Kurulum Adımları
 
-```bash
+bash
 git clone https://github.com/HarunMercan1/renseciciuygulamasi.git
 cd renseciciuygulamasi
 flutter pub get
