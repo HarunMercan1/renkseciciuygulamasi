@@ -42,7 +42,8 @@ lib/
 👨‍💻 Geliştirici
 Harun Mercan – Gazi Üniversitesi – Bilgisayar Mühendisliği 🎓
 Flutter & Dart öğrenme sürecimin bir parçası olarak geliştirilmiştir.
-🔗 GitHub profilim
+🔗 [GitHub profilim](https://github.com/HarunMercan1)
+
 
 📝 Notlar
 Kodlar sade, okunabilir ve modülerdir. 
