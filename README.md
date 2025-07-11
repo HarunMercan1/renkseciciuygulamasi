@@ -30,8 +30,9 @@ cd renseciciuygulamasi
 >>>>>>> 78c54acbf75a5e0220c62f840eb1a86d5b385181
 flutter pub get
 flutter run
+```
 
-
+```
 🗂️ Proje Yapısı
 
 lib/
@@ -44,7 +45,7 @@ lib/
 ├── widgets/
 │   └── color_display.dart    # Seçilen rengi kutu/daire olarak gösteren widget
 └── main.dart                 # Uygulamanın giriş noktası
-
+```
 👨‍💻 Geliştirici
 Harun Mercan – Gazi Üniversitesi – Bilgisayar Mühendisliği 🎓
 Flutter & Dart öğrenme sürecimin bir parçası olarak geliştirilmiştir.
