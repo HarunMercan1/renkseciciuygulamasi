@@ -47,13 +47,13 @@ lib/
 └── main.dart                 # Uygulamanın giriş noktası
 ```
 👨‍💻 Geliştirici
-Harun Mercan – Gazi Üniversitesi – Bilgisayar Mühendisliği 🎓
-Flutter & Dart öğrenme sürecimin bir parçası olarak geliştirilmiştir.
-🔗 [GitHub profilim](https://github.com/HarunMercan1)
+- Harun Mercan – Gazi Üniversitesi – Bilgisayar Mühendisliği 🎓
+- Flutter & Dart öğrenme sürecimin bir parçası olarak geliştirilmiştir.
+- 🔗 [GitHub profilim](https://github.com/HarunMercan1)
 
 
 📝 Notlar
-Kodlar sade, okunabilir ve modülerdir. 
-Öğrenme amaçlı yazılmıştır ama genişletmeye uygundur.
-Geri bildirim ve katkılara her zaman açığım!
-```
+- Kodlar sade, okunabilir ve modülerdir. 
+- Öğrenme amaçlı yazılmıştır ama genişletmeye uygundur.
+- Geri bildirim ve katkılara her zaman açığım!
+
