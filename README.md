@@ -31,32 +31,6 @@ Aşağıdaki özellikleri içerir:
   <img src="screenshots/ss4.png" alt="ss4" width="200"/>
 </p>
 
-## ⚙️ Kurulum Adımları
-
-<<<<<<< HEAD
-Aşağıdaki adımları terminalde sırayla çalıştırarak projeyi çalıştırabilirsiniz:
-
-```bash
-git clone https://github.com/HarunMercan1/renkseciciuygulamasi.git
-cd renkseciciuygulamasi
-flutter pub get
-flutter run
-```
-
-```
-🗂️ Proje Yapısı
-
-lib/
-├── constants/
-│   └── colors.dart           # Renk sabitlerini tutan dosya
-├── pages/
-│   └── color_picker_page.dart  # Ana ekranı oluşturan sayfa
-├── theme/
-│   └── app_theme.dart        # Uygulama teması (renk, yazı tipi vs.)
-├── widgets/
-│   └── color_display.dart    # Seçilen rengi kutu/daire olarak gösteren widget
-└── main.dart                 # Uygulamanın giriş noktası
-```
 👨‍💻 Geliştirici
 - Harun Mercan – Gazi Üniversitesi – Bilgisayar Mühendisliği 🎓
 - Flutter & Dart öğrenme sürecimin bir parçası olarak geliştirilmiştir.
