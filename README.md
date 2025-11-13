@@ -10,7 +10,6 @@ Aşağıdaki özellikleri içerir:
 - Seçilen rengin RGB kodunu gösterme
 
 ---
-
 ## 🧰 Kullanılan Teknolojiler
 
 - [Flutter](https://flutter.dev/)
