@@ -16,7 +16,6 @@ Aşağıdaki özellikleri içerir:
 - Dart
 - Material Design
 - StatefulWidget
-
 ---
 ## 🖼️ Ekran Görüntüleri
 
